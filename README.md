@@ -3,9 +3,9 @@
 <h3 align="center">A passionate JAVA Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balusaikumar&label=Profile%20views&color=0e75b6&style=flat" alt="balusaikumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BaluSaikumar&label=Profile%20views&color=0e75b6&style=flat" alt="balusaikumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balusaikumar" alt="balusaikumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BaluSaikumar" alt="BaluSaikumar" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development, Java, SQL, Spring, Hibernate**
 
@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balusaikumar&show_icons=true&locale=en" alt="BaluSaikumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balusaikumar&" alt="BaluSaikumar" /></p>
+
