@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development, Java, SQL, Spring, Hibernate**
 
-- 👨‍💻 All of my projects are available at [https://lucent-moxie-a11b78.netlify.app/](https://lucent-moxie-a11b78.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://saikumar.dev.voyage/](https://saikumar.dev.voyage/)
 
 - 💬 Ask me about **Core Java, DSA**
 
